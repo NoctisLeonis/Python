@@ -1,0 +1,10 @@
+a = float(input("Введите первое число:"))
+b = float(input("Введите второе число:"))
+sum = a + b
+razn = a - b
+proiz = a * b
+cas = a / b
+print('Сумма =', sum)
+print('Разность =', razn)
+print('Произведение =', proiz)
+print('Частное =', cas)
